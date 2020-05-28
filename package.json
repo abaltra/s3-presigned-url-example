@@ -1,0 +1,25 @@
+{
+  "name": "s3-presigned-url-example",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abaltra/s3-presigned-url-example.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/abaltra/s3-presigned-url-example/issues"
+  },
+  "homepage": "https://github.com/abaltra/s3-presigned-url-example#readme",
+  "dependencies": {
+    "aws-sdk": "^2.685.0",
+    "axios": "^0.19.2",
+    "uuid": "^8.1.0"
+  }
+}
